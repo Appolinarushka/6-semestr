@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744901608 source:c:\codeblocks projects\3\main.cpp
+	<iostream>
+	<utility>
+

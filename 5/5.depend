@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744901006 source:c:\codeblocks projects\5\main.cpp
+	<iostream>
+	<iterator>
+	<stdexcept>
+
